@@ -1,9 +1,9 @@
 # Alexandre Marques Baldez Junior
 Engenheiro Mecânico e Analista de sistemas.
 
-:house:    Rio Grande / RS <br>
-:iphone:   (53) 99128 - 4870 <br>
-:envelope: abaldezjr@gmail.com
+Rio Grande / RS <br>
+(53) 99128 - 4870 <br>
+abaldezjr@gmail.com
 
 Possui graduação em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Federal do Rio Grande (FURG) - 2012, atualmente é graduando em Engenharia Mecânica Empresarial também pela FURG. Possui experiência no setor administrativo com competências na área de desenvolvimento de sistemas de software.
 
