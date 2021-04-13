@@ -1,4 +1,4 @@
-[Versão para impressão](curriculo-impressao.html)
+[Versão para impressão](https://abaldezjr.github.io/abaldezjr/curriculo-impressao.html)
 # Alexandre Marques Baldez Junior
 Engenheiro Mecânico e Analista de sistemas.
 
