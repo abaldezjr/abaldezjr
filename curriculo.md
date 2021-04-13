@@ -1,3 +1,4 @@
+[Versão para impressão](curriculo-impressao.html)
 # Alexandre Marques Baldez Junior
 Engenheiro Mecânico e Analista de sistemas.
 
