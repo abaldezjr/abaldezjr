@@ -6,9 +6,8 @@ Rio Grande / RS <br>
 (53) 99128 - 4870 <br>
 abaldezjr@gmail.com
 
-Possui graduação em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Federal do Rio Grande (FURG) - 2012, atualmente é graduando em Engenharia Mecânica Empresarial também pela FURG. Possui experiência no setor administrativo com competências na área de desenvolvimento de sistemas de software.
-
-## Formação
+Possui graduação em Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS), atualmente é graduando em Engenharia Mecânica Empresarial também pela Universidade Federal do Rio Grande. Possui experiência no setor administrativo com competências na área de desenvolvimento de sistemas e engenharia.
+## Formação Acadêmica
 * Bacharelado em Engenharia Mecânica - Universidade Federal do Rio Grande (FURG). [Site](https://ee.furg.br/graduacao/engenharia-mecanica-empresarial)
 
 * Tecnologia em análise e desenvolvimento de sistemas - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS). [Site](http://divcomp.riogrande.ifrs.edu.br/superior) / [TCC](https://github.com/abaldezjr/abaldezjr/blob/main/Sistema%20Inteligente%20de%20Monitoramento%20de%20Frotas%20de%20Ônibus.pdf)
