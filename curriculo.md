@@ -5,7 +5,7 @@ Engenheiro Mecânico e Analista de Sistemas.
 Rio Grande / RS <br>
 (53) 991284870 <br>
 abaldezjr@gmail.com
-Fernanda
+
 Possui graduação em Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul, atualmente é graduando em Engenharia Mecânica Empresarial pela Universidade Federal do Rio Grande. Possui experiência no setor administrativo com competências na área de desenvolvimento de sistemas e engenharia.
 ## Formação Acadêmica
 * Bacharelado em Engenharia Mecânica - Universidade Federal do Rio Grande (FURG) - 2021 [Site](https://ee.furg.br/graduacao/engenharia-mecanica-empresarial)
