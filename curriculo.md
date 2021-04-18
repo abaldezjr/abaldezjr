@@ -1,6 +1,6 @@
 [Versão para impressão](https://abaldezjr.github.io/abaldezjr/curriculo-impressao.html)
 # Alexandre Marques Baldez Junior
-Engenheiro Mecânico e Analista de sistemas.
+Engenheiro Mecânico e Analista de Sistemas.
 
 Rio Grande / RS <br>
 (53) 991284870 <br>
