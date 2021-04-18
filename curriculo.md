@@ -16,5 +16,5 @@ Possui graduação em Tecnologia em Análise e Desenvolvimento de Sistemas pelo 
 
 ## Experiência Profissional
 * Irigaray Guindastes e Transportes - Rio Grande/RS - 2014 - Auxiliar Administrativo
-* Construtoria Queiroz Galvão Brasil - Rio Grande/RS - 2013 - Auxiliar Administrativo
+* Construtora Queiroz Galvão Brasil - Rio Grande/RS - 2013 - Auxiliar Administrativo
 * Datamex Tecnologia - Rio Grande/RS - 2012 - Desenvolvedor de sistemas
