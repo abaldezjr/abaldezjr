@@ -1,4 +1,4 @@
-[Currículo](https://abaldezjr.github.io/abaldezjr/curriculo.html) | [Currículo para impressão](https://abaldezjr.github.io/abaldezjr/curriculo-impressao.html)
+[Currículo](https://abaldezjr.github.io/abaldezjr/curriculo.html) | [html](https://abaldezjr.github.io/abaldezjr/curriculo.html) | [pdf](https://abaldezjr.github.io/abaldezjr/curriculo.pdf)
 ### Formação Acadêmica:
 * Bacharelado em Engenharia Mecânica - Universidade Federal do Rio Grande (FURG). [Site](https://ee.furg.br/graduacao/engenharia-mecanica-empresarial) | [TCC](https://github.com/abaldezjr/abaldezjr/blob/main/tcc.pdf) | [Apresentação TCC](https://github.com/abaldezjr/abaldezjr/blob/main/apresentacao-tcc.pdf)
 * Tecnologia em análise e desenvolvimento de sistemas - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS). [Site](http://divcomp.riogrande.ifrs.edu.br/superior) / [TCC](https://github.com/abaldezjr/abaldezjr/blob/main/Sistema%20Inteligente%20de%20Monitoramento%20de%20Frotas%20de%20Ônibus.pdf)
