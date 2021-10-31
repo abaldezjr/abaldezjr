@@ -20,16 +20,6 @@
   </a>
 </div>
 
-##
-
-<div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=abaldezjr&count_private=true&theme=dracula"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaldezjr&theme=dracula"/>
-</div>
-
-![Snake animation](https://github.com/karinamelorodrigues/karinamelorodrigues/blob/output/github-contribution-grid-snake.svg)
-
-
 [Currículo em HTML](https://abaldezjr.github.io/abaldezjr/curriculo.html) / [Currículo em PDF](https://abaldezjr.github.io/abaldezjr/curriculo.pdf)
 ### Formação Acadêmica:
 * Bacharelado em Engenharia Mecânica - Universidade Federal do Rio Grande (FURG). [Site](https://ee.furg.br/graduacao/engenharia-mecanica-empresarial) / [TCC](https://abaldezjr.github.io/abaldezjr/tcc.pdf) / [Apresentação TCC](https://abaldezjr.github.io/abaldezjr/apresentacao-tcc.pdf)
