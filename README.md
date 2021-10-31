@@ -4,16 +4,6 @@
 - 🌱 Atualmente estudando Spring boot REST API Java
 
 ##
-<h3>Linguagens e Tecnologias</h3>
-<div style="display: inline_block">
-    <img height="54" width:"auto" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img height="50" width:"auto" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-     <img height="50" width:"auto" alt="HTML 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <img height="54" width:"auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-</div>
-
-
-##
 <h3>Contato</h3>
 <div>
    <a href="https://www.linkedin.com/in/abaldezjr/" target="_blank">
