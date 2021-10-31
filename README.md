@@ -1,3 +1,35 @@
+### Olá! Sou o Alexandre Baldez Jr. 👋
+
+- 🔭 Estou em busca de uma vaga de desenvolvedor junior.
+- 🌱 Atualmente estudando Spring boot REST API Java
+
+##
+<h3>Contato</h3>
+<div>
+   <a href="https://www.linkedin.com/in/abaldezjr/" target="_blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abaldezjr@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/abaldezjr" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5553991284870" target="_blank">
+    <img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</div>
+
+##
+
+<div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=abaldezjr&count_private=true&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaldezjr&theme=dracula"/>
+</div>
+
+![Snake animation](https://github.com/karinamelorodrigues/karinamelorodrigues/blob/output/github-contribution-grid-snake.svg)
+
+
 [Currículo em HTML](https://abaldezjr.github.io/abaldezjr/curriculo.html) / [Currículo em PDF](https://abaldezjr.github.io/abaldezjr/curriculo.pdf)
 ### Formação Acadêmica:
 * Bacharelado em Engenharia Mecânica - Universidade Federal do Rio Grande (FURG). [Site](https://ee.furg.br/graduacao/engenharia-mecanica-empresarial) / [TCC](https://abaldezjr.github.io/abaldezjr/tcc.pdf) / [Apresentação TCC](https://abaldezjr.github.io/abaldezjr/apresentacao-tcc.pdf)
