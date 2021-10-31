@@ -3,7 +3,6 @@
 - 🔭 Estou em busca de uma vaga de desenvolvedor junior.
 - 🌱 Atualmente estudando Spring boot REST API Java
 
-##
 <h3>Contato</h3>
 <div>
    <a href="https://www.linkedin.com/in/abaldezjr/" target="_blank">
@@ -25,8 +24,6 @@
 * Bacharelado em Engenharia Mecânica - Universidade Federal do Rio Grande (FURG). [Site](https://ee.furg.br/graduacao/engenharia-mecanica-empresarial) / [TCC](https://abaldezjr.github.io/abaldezjr/tcc.pdf) / [Apresentação TCC](https://abaldezjr.github.io/abaldezjr/apresentacao-tcc.pdf)
 * Tecnologia em análise e desenvolvimento de sistemas - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS). [Site](http://divcomp.riogrande.ifrs.edu.br/superior) / [TCC](https://abaldezjr.github.io/abaldezjr/tcctads.pdf)
 * Técnico Sistemas para internet e intranet - Instituto Federal de Educação, Ciência e Tecnologia do Rio grande do sul (IFRS). 
-
-##
 
 <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=abaldezjr&count_private=true&theme=dracula"/>
