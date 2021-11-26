@@ -27,7 +27,7 @@
 
 ### Certificados
 
-* Imersão Dev Superior. [Site](https://devsuperior.com.br) / [pdf](https://abaldezjr.github.io/abaldezjr/tcc.pdf)
+* Spring boot Java + React - Imersão Dev Superior. [Site](https://devsuperior.com.br) / [pdf](https://abaldezjr.github.io/abaldezjr/certificados/Alexandre-certificado-devsuperior.pdf)
 
 <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=abaldezjr&count_private=true&theme=dracula"/>
