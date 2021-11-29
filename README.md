@@ -19,7 +19,7 @@
   </a>
 </div>
 
-[Currículo em HTML](https://abaldezjr.github.io/abaldezjr/curriculo.html) / [Currículo em PDF](https://abaldezjr.github.io/abaldezjr/curriculo.pdf)
+[Currículo em HTML](https://abaldezjr.github.io/abaldezjr/curriculo.html) / [Currículo em PDF](https://abaldezjr.github.io/abaldezjr/curriculo.pdf) / [Currículo Lattes](http://lattes.cnpq.br/5165730716720121)
 ### Formação Acadêmica
 * Bacharelado em Engenharia Mecânica - Universidade Federal do Rio Grande (FURG). [Site](https://ee.furg.br/graduacao/engenharia-mecanica-empresarial) / [TCC](https://abaldezjr.github.io/abaldezjr/tcc.pdf) / [Apresentação TCC](https://abaldezjr.github.io/abaldezjr/apresentacao-tcc.pdf)
 * Tecnologia em análise e desenvolvimento de sistemas - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS). [Site](http://divcomp.riogrande.ifrs.edu.br/superior) / [TCC](https://abaldezjr.github.io/abaldezjr/tcctads.pdf)
