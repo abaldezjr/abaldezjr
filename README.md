@@ -24,7 +24,3 @@
 * Tecnologia em análise e desenvolvimento de sistemas - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS). [Site](http://divcomp.riogrande.ifrs.edu.br/superior) / [TCC](https://abaldezjr.github.io/abaldezjr/tcctads.pdf)
 * Técnico Sistemas para internet e intranet - Instituto Federal de Educação, Ciência e Tecnologia do Rio grande do sul (IFRS). -->
 
-<div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=abaldezjr&count_private=true&theme=dracula"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaldezjr&theme=dracula"/>
-</div>
