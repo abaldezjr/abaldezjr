@@ -1,6 +1,6 @@
 ### Olá! Sou o Alexandre Baldez Jr. 👋
 
-- 🔭 Estou em busca de uma vaga de desenvolvedor junior.
+- 🔭 Software Developer.
 
 <h3>Contato</h3>
 <div>
@@ -13,7 +13,7 @@
   <a href="https://t.me/abaldezjr" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://wa.me/5553991284870" target="_blank">
+  <a href="https://wa.me/5553991367578" target="_blank">
     <img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
